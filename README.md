@@ -1,10 +1,10 @@
 WORK IN PROGRESS 
 
-<img width="736" height="390" alt="Image" src="https://github.com/user-attachments/assets/c7c4e59e-57a2-46bf-9531-983f8ea4aab7" />
+<img width="736" height="391" alt="Image" src="https://github.com/user-attachments/assets/24fceb94-78e7-4fdb-8497-78d415e53c26" />
 
 . . *this year is my year. I can feel it. '86 baby!*
 
 
-<img width="736" height="327" alt="Image" src="https://github.com/user-attachments/assets/05ec9398-7894-465f-b7f3-0120ca4e4d2f" />
+<img width="736" height="299" alt="Image" src="https://github.com/user-attachments/assets/ec81db80-9332-4ae6-991a-1bbd8cc52614" />
 
 [ATABOOK](kandi.atabook.org)
