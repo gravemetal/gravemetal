@@ -1,5 +1,7 @@
-<img width="736" height="607" alt="Image" src="https://github.com/user-attachments/assets/6de546c9-0913-4b67-b8ef-b87c93544956" />
+<img width="736" height="390" alt="Image" src="https://github.com/user-attachments/assets/c7c4e59e-57a2-46bf-9531-983f8ea4aab7" />
 
-WIP : [ATABOOK](kandi.atabook.org)
+WIP
 
-<img width="640" height="349" alt="Image" src="https://github.com/user-attachments/assets/07785bd1-dfd2-40cf-8105-732f5fbbdf99" />
+[ATABOOK](kandi.atabook.org)
+
+<img width="736" height="327" alt="Image" src="https://github.com/user-attachments/assets/05ec9398-7894-465f-b7f3-0120ca4e4d2f" />
