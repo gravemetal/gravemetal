@@ -1,4 +1,4 @@
-[RENTRY](wip)
+RENTRY(wip)
 
 <img width="736" height="390" alt="Image" src="https://github.com/user-attachments/assets/c7c4e59e-57a2-46bf-9531-983f8ea4aab7" />
 
